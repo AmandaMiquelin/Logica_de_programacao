@@ -17,7 +17,7 @@ programa
 		escreva("Digite a venda de Abril:")
 		leia(abril)
 
-		media = (janeiro+fevereiro+marco+Abril)/4
+		media = (janeiro+fevereiro+marco+abril)/4
 
 		escreva("A media de vendas do vendedor:" + vendedor + " foi: " + media)
 		
